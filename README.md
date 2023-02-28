@@ -14,3 +14,4 @@ Una vez descargado se deben correr los siguientes comandos en este orden:
     3. php artisan migrate --seed
     4. php artisan key:generate
     5. php artisan serve
+    6. Ingresar a: localhost:8000
